@@ -10,7 +10,7 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "Krishna Asati",
   "license": "ISC",
   "dependencies": {
     "@tailwindcss/vite": "^4.3.1",
