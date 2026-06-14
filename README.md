@@ -40,32 +40,4 @@ Backend:
 *MongoDB (Mongoose ORM)*
 
 
-todo-app-mern/
-│
-├── client/                 # React frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── App.js
-│   │   └── index.js
-│   └── package.json
-│
-├── server/                  # Node + Express backend
-│   ├── models/
-│   │   └── Todo.js
-│   ├── routes/
-│   │   └── todoRoutes.js
-│   ├── controllers/
-│   │   └── todoController.js
-│   ├── config/
-│   │   └── db.js
-│   ├── server.js
-│   └── package.json
-│
-├── .env
-├── .gitignore
-└── README.md
-
-*dotenv (for environment variables)*
-
 *cors*
