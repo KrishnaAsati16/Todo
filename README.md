@@ -7,11 +7,17 @@
 
 
 ✅ Add new tasks
+
 ✏️ Edit existing tasks
+
 🗑️ Delete tasks
+
 ☑️ Mark tasks as completed / pending
+
 📱 Responsive UI for mobile and desktop
+
 🔄 Real-time updates with REST API
+
 🔐 (Optional) User authentication with JWT
 
 
