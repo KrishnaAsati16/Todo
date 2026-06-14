@@ -1,4 +1,4 @@
-📝 Todo App – MERN Stack
+📝 Todo App 
 
  A simple and efficient Todo application built using the MERN stack (MongoDB, Express, React, Node.js). This app allows users to create, read, update, and delete tasks, helping them manage their daily to-do list effectively.
 
@@ -38,6 +38,33 @@ Backend:
 *Express.js*
 
 *MongoDB (Mongoose ORM)*
+
+
+todo-app-mern/
+│
+├── client/                 # React frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.js
+│   │   └── index.js
+│   └── package.json
+│
+├── server/                  # Node + Express backend
+│   ├── models/
+│   │   └── Todo.js
+│   ├── routes/
+│   │   └── todoRoutes.js
+│   ├── controllers/
+│   │   └── todoController.js
+│   ├── config/
+│   │   └── db.js
+│   ├── server.js
+│   └── package.json
+│
+├── .env
+├── .gitignore
+└── README.md
 
 *dotenv (for environment variables)*
 
