@@ -22,6 +22,3 @@
 
 
 
-🛠️ Tech Stack
-
-
