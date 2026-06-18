@@ -24,26 +24,4 @@
 
 🛠️ Tech Stack
 
-Frontend:
 
-
-*React.js*
-
-*Axios*
-
-*React Hooks (useState, useEffect)*
-
-*CSS / Tailwind CSS*
-
-
-Backend:
-
-
-*Node.js*
-
-*Express.js*
-
-*MongoDB (Mongoose ORM)*
-
-
-*cors*
